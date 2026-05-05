@@ -7,3 +7,7 @@ server:
 security:
   secret:
     key: ldkhiutwetkndsaabfdjkbfwrkj0
+
+logging:
+  level:
+    org.springframwork.*: INFO
