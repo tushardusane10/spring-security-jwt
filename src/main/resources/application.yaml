@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-security-jwt
+server:
+  port: 8081
+
+security:
+  secret:
+    key: ldkhiutwetkndsaabfdjkbfwrkj0
